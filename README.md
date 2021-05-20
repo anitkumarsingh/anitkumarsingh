@@ -10,9 +10,10 @@
 
 - 🌱 I’m currently learning **Advanced Mobile Development with React native,Graphql,React-query,Styled Component,Python,Machine leaning**
 
-- 👨‍💻 All of my projects are available at [https://anitkumar-portfolio.firebaseapp.com](https://anitkumar-portfolio.firebaseapp.com)
+- 👨‍💻 Few of my projects are available at [https://anitkumar-portfolio.firebaseapp.com](https://anitkumar-portfolio.firebaseapp.com) (Not updated)
 
 - 📫 How to reach me **anikumarsingh99@gmail.com**
+-    Mailig System [https://mail-list.vercel.app](https://mail-list.vercel.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
