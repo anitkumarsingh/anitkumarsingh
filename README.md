@@ -18,7 +18,7 @@
 -    Hacker Ranking System [https://mern-hacker-ranking-sys.herokuapp.com/](https://mern-hacker-ranking-sys.herokuapp.com)
 -    Hacker Portfolio [https://hacker-portfolio.vercel.app/](https://hacker-portfolio.vercel.app)
 -    Custom Blog System [https://custom-blog-system.netlify.app/](https://custom-blog-system.netlify.app)
--    BigApp React Challenge [https://react-challenge-by-anit.netlify.app/#/){https://react-challenge-by-anit.netlify.app)
+-    BigApp React Challenge [https://react-challenge-by-anit.netlify.app/#/](https://react-challenge-by-anit.netlify.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
