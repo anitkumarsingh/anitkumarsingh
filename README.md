@@ -13,7 +13,12 @@
 - 👨‍💻 Few of my projects are available at [https://anitkumar-portfolio.firebaseapp.com](https://anitkumar-portfolio.firebaseapp.com) (Not updated)
 
 - 📫 How to reach me **anikumarsingh99@gmail.com**
--    Mailig System [https://mail-list.vercel.app](https://mail-list.vercel.app)
+- Favourite Projects
+-    Mailing System [https://mail-list.vercel.app](https://mail-list.vercel.app)
+-    Hacker Ranking System [https://mern-hacker-ranking-sys.herokuapp.com/](https://mern-hacker-ranking-sys.herokuapp.com)
+-    Hacker Portfolio [https://hacker-portfolio.vercel.app/](https://hacker-portfolio.vercel.app)
+-    Custom Blog System [https://custom-blog-system.netlify.app/](https://custom-blog-system.netlify.app)
+-    BigApp React Challenge [https://react-challenge-by-anit.netlify.app/#/){https://react-challenge-by-anit.netlify.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
