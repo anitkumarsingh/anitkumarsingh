@@ -13,9 +13,9 @@
 - 👨‍💻 Few of my projects are available at [https://anitkumar-portfolio.firebaseapp.com](https://anitkumar-portfolio.firebaseapp.com) (Not updated)
 - Favourite Projects
 - Mailing System [https://mail-list.vercel.app/](https://mail-list.vercel.app)
-- Hacker ranking system [https://mern-hacker-ranking-sys.herokuapp.com/] (https://mern-hacker-ranking-sys.herokuapp.com)
-- Hacker Portfolio [https://hacker-portfolio.vercel.app/] (https://hacker-portfolio.vercel.app)
-- Custom bloging system [https://custom-blog-system.netlify.app/] (https://custom-blog-system.netlify.app)
+- Hacker ranking system [https://mern-hacker-ranking-sys.herokuapp.com/](https://mern-hacker-ranking-sys.herokuapp.com)
+- Hacker Portfolio [https://hacker-portfolio.vercel.app/](https://hacker-portfolio.vercel.app)
+- Custom bloging system [https://custom-blog-system.netlify.app/](https://custom-blog-system.netlify.app)
 - Drag and Drop [https://react-challenge-by-anit.netlify.app/#/](https://react-challenge-by-anit.netlify.app)
 
 - 📫 How to reach me **anikumarsingh99@gmail.com**
