@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Mobile Development with React native,Graphql,React-query,Styled Component,Python,Machine leaning**
 
-- 👨‍💻 Few of my projects are available at [https://anitkumar-portfolio.firebaseapp.com](https://anit-portfolio.vercel.app/)
+- 👨‍💻 Few of my projects are available at [https://anit-portfolio.vercel.app/](https://anit-portfolio.vercel.app/)
 - Favourite Projects
 - Resume Builder [https://resume-builder-anit.vercel.app/](https://resume-builder-anit.vercel.app/)
 - Front end code editor [https://front-end-editor.vercel.app/](https://front-end-editor.vercel.app/)
