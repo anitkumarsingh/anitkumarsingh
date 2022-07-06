@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anit</h1>
-<h3 align="center">Software Engineer at The Travel Agent Next Door</h3>
+<h3 align="center">Sr. Software Engineer at Zensar Technologies Limited</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anitkumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="anitkumarsingh" /> </p>
 
