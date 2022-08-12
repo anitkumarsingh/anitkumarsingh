@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anitkumarsingh" alt="anitkumarsingh" /></a> </p>
 
-- 🔭 I’m currently working on **Software Development for TTAND**
+- 🔭 I’m currently working as a **Sr. Software Engineer for Zensar Technologies Limited**
 
 - 🌱 I’m currently learning **Advanced Mobile Development with React native,Graphql,React-query,Styled Component,Python,Machine leaning**
 
